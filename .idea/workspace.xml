@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b4867ec-2219-4eef-bf8e-1ccbaab4d54e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1Wz6MopWjtJrXlejSE5NVNNwAcZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/themes/default" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OPEN SERVER\OSPanel\domains\mycms\content\themes\default" />
+      <recent name="D:\OPEN SERVER\OSPanel\domains\mycms\CMS\Controllers" />
+      <recent name="D:\OPEN SERVER\OSPanel\domains\mycms\CMS\Models" />
+      <recent name="D:\OPEN SERVER\OSPanel\domains\mycms\admin\Assets\fonts" />
+      <recent name="D:\OPEN SERVER\OSPanel\domains\mycms\CMS\Config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="W:\domains\mycms\engine" />
+      <recent name="D:\OPEN SERVER\OSPanel\domains\mycms\admin" />
+      <recent name="D:\OPEN SERVER\OSPanel\domains\mycms\admin\Models" />
+      <recent name="D:\OPEN SERVER\OSPanel\domains\mycms\admin\Models\User" />
+      <recent name="D:\OPEN SERVER\OSPanel\domains\mycms\engine\Core\Database" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b4867ec-2219-4eef-bf8e-1ccbaab4d54e" name="Default Changelist" comment="" />
+      <created>1580140031686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580140031686</updated>
+      <workItem from="1580140037520" duration="4462000" />
+      <workItem from="1580152767645" duration="4265000" />
+      <workItem from="1580214895166" duration="2895000" />
+      <workItem from="1580302126343" duration="1629000" />
+      <workItem from="1580318785734" duration="11386000" />
+      <workItem from="1580399290317" duration="1461000" />
+      <workItem from="1580500937820" duration="601000" />
+      <workItem from="1580770935932" duration="6167000" />
+      <workItem from="1580816116216" duration="8601000" />
+      <workItem from="1580984824664" duration="4410000" />
+      <workItem from="1581154239943" duration="5883000" />
+      <workItem from="1581325702085" duration="16254000" />
+      <workItem from="1581419959252" duration="8255000" />
+      <workItem from="1581514595494" duration="11471000" />
+      <workItem from="1581585925500" duration="24620000" />
+      <workItem from="1581682257840" duration="3092000" />
+      <workItem from="1581708432294" duration="3205000" />
+      <workItem from="1581763502317" duration="5543000" />
+      <workItem from="1581860989769" duration="12196000" />
+      <workItem from="1581927552074" duration="10662000" />
+      <workItem from="1582046473044" duration="10000" />
+      <workItem from="1582046562577" duration="7638000" />
+      <workItem from="1582219878422" duration="1481000" />
+      <workItem from="1582486417614" duration="775000" />
+      <workItem from="1582559218876" duration="7794000" />
+      <workItem from="1583080205211" duration="698000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

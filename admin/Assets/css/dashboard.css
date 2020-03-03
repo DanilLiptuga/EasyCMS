@@ -1,0 +1,97 @@
+@import url('fonts.css');
+a, a:hover, a:focus{
+    text-decoration: none;
+}
+.right-toolbar{
+    width: 200px;
+    text-align: right;
+}
+
+.page-title{
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+}
+.page-title h3{}
+.error{
+    background-color: red;
+    text-align: center;
+    color: #fff;
+}
+.icon-close{
+    color: #e74c3c !important;
+}
+.icon-close:focus, .icon-close:hover {
+    color: #e82f2f !important;
+}
+.logo{
+    width: 70px;
+}
+.select-wrapper input.select-dropdown{
+    top: 10px;
+}
+.navbar-brand{
+    margin-right: 1.5rem;
+    font-size: 1.75rem;
+    position: relative;
+    top: -2.5px;
+    font-family: 'Old English Text MT', sans-serif;
+}
+.navbar-toggleable-md .navbar-nav .nav-link{
+    padding-right: 1rem;
+    padding-left: 1rem;
+}
+.navbar-toggleable-md .navbar-nav .nav-link i{
+    margin-right: 0.1rem;
+}
+.page-title a{
+    float: right;
+    position: relative;
+    top: 7px;
+}
+a#logo{
+    display: none;
+}
+label{
+    display: block;
+}
+.thumb {
+    height: 300px;
+}
+.inputfile {
+    width: 0;
+    height: 0;
+    opacity: 0;
+    overflow: hidden;
+    position: absolute;
+    z-index: -1;
+}
+table.table a {
+    color: #007bff;
+}
+.inputfile + label {
+    max-width: 80%;
+    font-size: 1.25rem;
+    font-weight: 700;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    cursor: pointer;
+    display: inline-block;
+    overflow: hidden;
+    padding: 0.5rem 1rem;
+    color: #f1e5e6;
+    background-color: #d3394c;
+}
+.inputfile + label.fade{
+    display: none;
+}
+
+.inputfile:focus + label,
+.inputfile + label:hover {
+    background-color: #722040;
+}
+.inputfile + label {
+    cursor: pointer; /* "hand" cursor */
+}
+.right-col-block{
+    margin-bottom: 10px;
+}

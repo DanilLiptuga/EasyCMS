@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&subset=cyrillic');
+@import url('https://fonts.googleapis.com/css?family=Hind:300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:400,700');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800&subset=cyrillic');
+
+@font-face {
+    font-family: 'Old English Text MT';
+    src: url('../fonts/OldEnglishTextMT.woff2') format('woff2'),
+    url('../fonts/OldEnglishTextMT.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

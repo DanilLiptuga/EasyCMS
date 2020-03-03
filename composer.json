@@ -1,0 +1,21 @@
+{
+	"name": "1/mycms",
+	"authors": [
+		{
+			"name": "Danil Liptuga",
+			"email": "danilliptuga@gmail.com"
+		}
+	],
+	"autoload":{
+		"psr-4": {
+			"Engine\\": "engine",
+			"Engine\\DI\\": "engine/DI",
+			"CMS\\": "CMS",
+			"admin\\": "admin/",
+			"admin\\Models\\": "admin/Models/"
+		}
+	},
+	"require": {
+		"ext-json": "*"
+	}
+}
